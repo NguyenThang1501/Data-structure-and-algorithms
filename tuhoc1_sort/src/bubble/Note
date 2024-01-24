@@ -1,0 +1,6 @@
+Nguyên lý:
+    - Chạy từ đầu đến cuối mảng
+    - Nếu phần tử đứng trước mà lớn hơn phần tử đứng sau thì đổi chỗ
+    - Sau mỗi vòng lặp thì phần tử lớn nhất sẽ trôi xuống dưới
+Nâng cấp:
+    - Dừng lại khi đã được sắp xếp xong.

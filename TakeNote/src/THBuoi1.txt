@@ -1,0 +1,9 @@
+Topics covered:
+- abstraction and encapsulation
+- classic data structures (lists, stacks, queues, trees)
+- some searching, sorting methods
+- hash table
+- heaps and priority queues
+- graph representations and graph algorithms
+
+

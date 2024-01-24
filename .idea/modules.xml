@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructuresAndAlgorithms.iml" filepath="$PROJECT_DIR$/.idea/DataStructuresAndAlgorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw1/Hw1.iml" filepath="$PROJECT_DIR$/Hw1/Hw1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw2/Hw2.iml" filepath="$PROJECT_DIR$/Hw2/Hw2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw3/Hw3.iml" filepath="$PROJECT_DIR$/Hw3/Hw3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw4/Hw4.iml" filepath="$PROJECT_DIR$/Hw4/Hw4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw5/Hw5.iml" filepath="$PROJECT_DIR$/Hw5/Hw5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TakeNote/TakeNote.iml" filepath="$PROJECT_DIR$/TakeNote/TakeNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spoj1/spoj1.iml" filepath="$PROJECT_DIR$/spoj1/spoj1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spoj2/spoj2.iml" filepath="$PROJECT_DIR$/spoj2/spoj2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuhoc1_sort/tuhoc1_sort.iml" filepath="$PROJECT_DIR$/tuhoc1_sort/tuhoc1_sort.iml" />
+    </modules>
+  </component>
+</project>

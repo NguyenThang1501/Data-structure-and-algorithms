@@ -1,0 +1,20 @@
+1. Tạo trình đọc:
+    - Để tạo 1 reader, trc tiên import java.io.Reader
+    - Create a reader: Reader input = new FileReader();
+    - Reader là lớp trừu tượng --> tạo đối tượng từ các lớp con
+2. Phương thức của Reader
+    - ready(): ktra xem đầu vào đã sẵn sàng để đọc chưa
+    - read(char[] array) - đọc các ký tự từ luồng và lưu trữ trong
+mảng được chỉ định
+    - read(char[] array, int start, int length): đọc số ký tự bằng
+    chiều dài từ luồng và lưu trữ trong mảng đc chỉ định bắt đầu từ
+    khởi đầu
+
+3.inputstream
+- read(byte[]) sẽ cố gắng đọc nhiều byte nhất có thể với khoảng sức chứa của mảng byte truyền vào.
+Trong trường hợp sức chứa của mảng byte truyền vào lớn hơn số lượng byte đọc được thì phần trống
+còn lại của mảng sẽ chứa data được lặp lại bắt đầu từ vị trí đầu tiên.
+
+- read(byte[], int offset, int length) hoạt động tương tự như trên tuy nhiên nó sẽ bắt đầu đọc từ
+vị trí offset và đọc nhiều nhất là length byte.
+

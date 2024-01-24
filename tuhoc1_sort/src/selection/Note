@@ -1,0 +1,5 @@
+Nguyên lý:
+    - Chạy từ đầu đến cuối mảng
+    - Tại vòng lặp thứ i, tìm phần tử nhỏ nhất từ [i+1,n-1],
+    nếu nhỏ hơn a[i] thì đổi chỗ cho a[i];
+    - Sau vòng lặp thứ i, dãy [0,i] đã đc sắp xếp.

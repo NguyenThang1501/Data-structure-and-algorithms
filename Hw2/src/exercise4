@@ -1,0 +1,45 @@
+1. Thuật toán bubble sort.
+    - Với n = 10:
+        + Số lần so sánh: 45
+        + Số lần đổi chỗ: 0
+        + Thời gian chạy trung bình (sau 10 lần test): ~4841580 nanosecond
+    - Với n = 20:
+        + Số lần so sánh: 190
+        + Số lần đổi chỗ: 0
+        + Thời gian chạy trung bình (sau 10 lần test): ~12383667.7 nanosecond
+    - Với n = 50:
+           + Số lần so sánh: 1225
+           + Số lần đổi chỗ: 0
+           + Thời gian chạy trung bình (sau 10 lần test): ~33533300.5 nanosecond
+
+2. Thuật toán selection sort:.
+    - Với n = 10:
+        + Số lần so sánh: 45
+        + Số lần đổi chỗ: 9
+        + Thời gian chạy trung bình (sau 10 lần test): ~4527999.8 nanosecond
+    - Với n = 20:
+        + Số lần so sánh: 190
+        + Số lần đổi chỗ: 19
+        + Thời gian chạy trung bình (sau 10 lần test): ~14722149.5 nanosecond
+    - Với n = 50:
+           + Số lần so sánh: 1225
+           + Số lần đổi chỗ: 49
+           + Thời gian chạy trung bình (sau 10 lần test): ~29369325.5 nanosecond
+
+3. Thuật toán insertion sort:.
+    - Với n = 10:
+        + Số lần so sánh: 9
+        + Số lần đổi chỗ: 0
+        + Thời gian chạy trung bình (sau 10 lần test): ~4227933.8 nanosecond
+    - Với n = 20:
+        + Số lần so sánh: 19
+        + Số lần đổi chỗ: 0
+        + Thời gian chạy trung bình (sau 10 lần test): ~10967700 nanosecond
+    - Với n = 50:
+           + Số lần so sánh: 49
+           + Số lần đổi chỗ: 0
+           + Thời gian chạy trung bình (sau 10 lần test): ~28004533 nanosecond
+
+=> Nhận xét: Thuật toán insertion sort cho hiệu quả tốt hơn hai thuật toán còn lại
+do có số lần so sánh, số lần đổi chỗ và thời gian chạy nhỏ nhất.
+
